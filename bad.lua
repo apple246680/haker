@@ -1,3 +1,4 @@
+-- // credits to anyones code i used/looked at.
 print("[Future] Loading!")
 repeat task.wait() until game:IsLoaded()
 if shared.Future~=nil then print("[Future] Detected future already executed, not executing!") return end
